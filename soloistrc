@@ -24,6 +24,7 @@ recipes:
 - sprout-rbenv
 - sprout-ruby
 - sprout-mysql
+- sprout-redis
 
 # apps
 - sprout-osx-apps::iterm2
@@ -46,6 +47,9 @@ node_attributes:
         - initials: dr
           name: Doc Ritezel
           username: doc
+        - initials: pl
+          name: Perry Lee
+          username: perry
       projects:
         -
           name: applicants
@@ -96,8 +100,11 @@ node_attributes:
         - wget
         - rbenv-binstubs
         - rbenv-gem-rehash
+        - ffmpeg
+        - exiftool
       casks:
         - ccmenu
+        - gitx
         - google-chrome
         - vagrant
         - virtualbox
