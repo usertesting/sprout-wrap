@@ -106,6 +106,7 @@ node_attributes:
         - ccmenu
         - gitx
         - google-chrome
+        - screenhero
         - vagrant
         - virtualbox
         - xquartz
