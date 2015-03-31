@@ -107,6 +107,7 @@ node_attributes:
         - gitx
         - google-chrome
         - screenhero
+        - sococo
         - vagrant
         - virtualbox
         - xquartz
