@@ -50,6 +50,9 @@ node_attributes:
         - initials: pl
           name: Perry Lee
           username: perry
+        - initials: sy 
+          name: Suan Yeo
+          username: suan
       projects:
         -
           name: applicants
