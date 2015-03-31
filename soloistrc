@@ -55,6 +55,9 @@ node_attributes:
           username: suan
       projects:
         -
+          name: opsworks
+          url: git@github.com:usertesting/opsworks.git
+        -
           name: applicants
           url: git@github.com:usertesting/applicants.git
         -
