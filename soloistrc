@@ -53,6 +53,12 @@ node_attributes:
         - initials: sy 
           name: Suan Yeo
           username: suan
+        - initials: rs 
+          name: Ralph Santos
+          username: ralph
+        - initials: im 
+          name: Imad Mouaddine
+          username: imad
       projects:
         -
           name: opsworks
@@ -75,6 +81,9 @@ node_attributes:
         -
           name: integration-tests
           url: git@github.com:usertesting/integration-tests.git
+        -
+          name: ios_signing
+          url: git@github.com:usertesting/ios_signing.git
     terminal:
       default_profile: 'Pro'
     settings:
@@ -116,5 +125,6 @@ node_attributes:
         - sococo
         - vagrant
         - virtualbox
+        - vmware-fusion
         - xquartz
         - caskroom/homebrew-versions/java6
