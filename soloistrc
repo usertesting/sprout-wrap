@@ -31,6 +31,7 @@ recipes:
 - sprout-osx-apps::hipchat
 - sprout-osx-apps::shiftit
 - sprout-osx-apps::phantomjs
+- sprout-osx-apps::menumeters
 
 # apps (editors)
 - sprout-osx-apps::sublime_text
@@ -50,15 +51,18 @@ node_attributes:
         - initials: pl
           name: Perry Lee
           username: perry
-        - initials: sy 
+        - initials: sy
           name: Suan Yeo
           username: suan
-        - initials: rs 
+        - initials: rs
           name: Ralph Santos
           username: ralph
-        - initials: im 
+        - initials: im
           name: Imad Mouaddine
           username: imad
+        - initials: bz
+          name: Bob Ziuchkovski
+          username: bob
       projects:
         -
           name: opsworks
