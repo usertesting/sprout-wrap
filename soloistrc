@@ -28,7 +28,6 @@ recipes:
 
 # apps
 - sprout-osx-apps::iterm2
-- sprout-osx-apps::hipchat
 - sprout-osx-apps::shiftit
 - sprout-osx-apps::phantomjs
 - sprout-osx-apps::menumeters
@@ -129,6 +128,7 @@ node_attributes:
         - rowanj-gitx
         - google-chrome
         - screenhero
+        - slack
         - sococo
         - vagrant
         - virtualbox
