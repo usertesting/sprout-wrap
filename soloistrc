@@ -63,6 +63,9 @@ node_attributes:
         - initials: bz
           name: Bob Ziuchkovski
           username: bob
+        - initials: cj
+          name: CJ Bryan
+          username: cj
       projects:
         -
           name: opsworks
