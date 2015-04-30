@@ -126,7 +126,7 @@ node_attributes:
         - exiftool
       casks:
         - ccmenu
-        - gitx
+        - rowanj-gitx
         - google-chrome
         - screenhero
         - sococo
