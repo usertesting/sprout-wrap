@@ -65,6 +65,9 @@ node_attributes:
         - initials: cj
           name: CJ Bryan
           username: cj
+        - initials: dmr
+          name: David Raffauf
+          username: david
       projects:
         -
           name: opsworks
