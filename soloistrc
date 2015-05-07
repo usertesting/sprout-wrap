@@ -68,6 +68,9 @@ node_attributes:
         - initials: dmr
           name: David Raffauf
           username: david
+        - initials: es
+          name: Emily Stewart
+          username: emily
       projects:
         -
           name: opsworks
