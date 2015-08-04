@@ -10,7 +10,6 @@ recipes:
 - sprout-osx-settings
 - sprout-osx-settings::dock_preferences
 - sprout-terminal
-- sprout-terminal::update_font
 - sprout-ssh::known_hosts_github
 
 # development (general)
@@ -34,6 +33,7 @@ recipes:
 
 # apps (editors)
 - sprout-osx-apps::sublime_text
+- sprout-osx-apps::macvim
 - sprout-rubymine
 
 node_attributes:
